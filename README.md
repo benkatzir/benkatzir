@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ben! <br/><a href="https://github.com/benkatzir">Freelance Programmer</a>, <a href="https://www.linkedin.com/in/ben-katzir-332b54266/">Computer Science Major</a>, <a href="https://www.linkedin.com/in/ben-katzir-332b54266/">Web Developer</a></h1>
+<h1>Hi, I'm Ben! <br/><a href="https://www.linkedin.com/in/ben-katzir-332b54266/">Computer Science Major</a>, <a href="https://github.com/benkatzir">Freelance Programmer</a>, <a href="https://www.linkedin.com/in/ben-katzir-332b54266/">Web Developer</a></h1>
 
 <h2>📙 Languages:</h2>
 
