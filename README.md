@@ -42,6 +42,10 @@
   - [Heap Lab](https://github.com/benkatzir/CIS22C/tree/main/10.10.1%20Lab%20%20Heap%20ADT)
   - [Team Project](https://github.com/benkatzir/CIS22C/tree/main/22c_group_project)
 
+- <b>DA Hacks 2.5 (Hackathon at De Anza College)</b>
+  - [Morse Code Password Retriever (Arduino Language)](https://github.com/benkatzir/Morse-Password-Retriever)
+  
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="BenKatzir | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
