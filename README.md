@@ -27,7 +27,7 @@
 
 <h2>🌐 Web Dev Projects:</h2>
 
-- <b>Live Chrome Extension (NodeJS, JavaScript, HTML/CSS, Sequel, Google Cloud Run)</b>
+- <b>Live Chrome Extension (NodeJS, JavaScript, HTML/CSS, SQL, Google Cloud Run)</b>
   - [Open Detector Chrome Extension](https://chromewebstore.google.com/detail/open-detector/kfbhbadnhmadlkbmbgdfkmdhojfdaeaf?authuser=1&hl=en)
 
 <h2>🏫 School Projects:</h2>
