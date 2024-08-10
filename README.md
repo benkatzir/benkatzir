@@ -5,14 +5,23 @@
 - <b>Python</b>
 - <b>JavaScript</b>
 - <b>NodeJS</b>
-- <b>SQL</b>
+- <b>T-SQL</b>
+- <b>PostgreSQL</b>
 - <b>HTML/CSS</b>
 - <b>C++</b>
+- <b>Docker</b>
+
+<h2>🚀 Skills:</h2>
+
+- <b>Google Cloud</b>
+- <b>AWS ec2 (VMs)</b>
+- <b>REST APIs</b>
+- <b>Full stack web development in Python Flask & NodeJS</b>
 
 <h2>👨‍💻 Freelance Programming Pojects:</h2>
 
 - <b>Real Estate Data Collection & Analysis (Python, Playwright, BeautifulSoup4)</b>
-  - [Real Estate Scraping & Analysis]()
+  - [Real Estate Scraping & Analysis](https://github.com/benkatzir/all_scraper_1.6)
 - <b>Forex Auto Trading Robot(Python, Oanda REST-V2 API)</b>
   - [Auto Trader + Analytics Dashboard]()
 
