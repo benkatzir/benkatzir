@@ -24,13 +24,14 @@
 <h2>🏫 School Projects:</h2>
 
 - <b>CIS22C Advanced Data Structures Class - De Anza College (C++)</b>
-  - [Stacks Lab]()
-  - [Queue Lab]()
-  - [Singly-Linked List Lab]()
-  - [Doubly-Linked List Lab]()
-  - [Binary Search Tree Lab]()
-  - [Hash Table Lab]()
-  - [Heap Lab]()
+  - [Stacks Lab](https://github.com/benkatzir/CIS22C/tree/main/3.12%20Lab%20Stacks%204%20-%20max%20(Stack%20ADT))
+  - [Queue Lab](https://github.com/benkatzir/CIS22C/tree/main/4.7.1%20Lab%20Queues%204%20(Queue%20ADT))
+  - [Singly-Linked List Lab](https://github.com/benkatzir/CIS22C/tree/main/6.10.1%20Lab%20Singly-Linked%20Lists%20(Park))
+  - [Doubly-Linked List Lab](https://github.com/benkatzir/CIS22C/tree/main/6.23.1%20Lab%20Doubly-Linked%20Lists%20(Park)%20-%20Templates)
+  - [Binary Search Tree Lab](https://github.com/benkatzir/CIS22C/tree/main/8.14.1%20Lab%20BT%20---%20BST%20ADT%20(Park))
+  - [Hash Table Lab](https://github.com/benkatzir/CIS22C/tree/main/9.14.1%20Lab%20Hash%20ADT)
+  - [Heap Lab](https://github.com/benkatzir/CIS22C/tree/main/10.10.1%20Lab%20%20Heap%20ADT)
+  - [Team Project](https://github.com/benkatzir/CIS22C/tree/main/22c_group_project)
 
 <h2> 🤳 Connect with me:</h2>
 
