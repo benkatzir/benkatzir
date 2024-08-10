@@ -36,6 +36,6 @@
 [<img align="left" alt="BenKatzir | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email]
 
 [twitter]: https://twitter.com/BenKatzir
-[instagram]: https://www.instagram.com/ben.katzir/
+[instagram]: https://www.instagram.com/_benkatzir/
 [linkedin]: https://linkedin.com/in/ben-katzir-332b54266/
 [email]: mailto:benkatzir1488@gmail.com
