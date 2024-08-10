@@ -23,10 +23,8 @@
 
 <h2>🏫 School Projects:</h2>
 
-- <b>CIS22B - De Anza College (C++)</b>
-  - [Programming Project #2 Manage Variable Objects]()
-  - [Programming Project #3 Manage Variables and Constants]()
-  - [Extra Credit Enhance Project #2 with Templates and Code Separation]()
+- <b>CIS22C Advanced Data Structures Class - De Anza College (C++)</b>
+  - [All Projects]()
 
 <h2> 🤳 Connect with me:</h2>
 
