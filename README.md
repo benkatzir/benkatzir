@@ -24,7 +24,13 @@
 <h2>🏫 School Projects:</h2>
 
 - <b>CIS22C Advanced Data Structures Class - De Anza College (C++)</b>
-  - [All Projects]()
+  - [Stacks Lab]()
+  - [Queue Lab]()
+  - [Singly-Linked List Lab]()
+  - [Doubly-Linked List Lab]()
+  - [Binary Search Tree Lab]()
+  - [Hash Table Lab]()
+  - [Heap Lab]()
 
 <h2> 🤳 Connect with me:</h2>
 
