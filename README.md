@@ -23,7 +23,7 @@
 - <b>Real Estate Data Collection & Analysis (Python, Playwright, BeautifulSoup4)</b>
   - [Real Estate Scraping & Analysis](https://github.com/benkatzir/all_scraper_1.6)
 - <b>Forex Auto Trading Robot(Python, Oanda REST-V2 API)</b>
-  - [Auto Trader + Analytics Dashboard]()
+  - [Auto Trader + Analytics Dashboard](https://github.com/benkatzir/Auto-Trader-Analytics-Dashboard)
 
 <h2>🌐 Web Dev Projects:</h2>
 
