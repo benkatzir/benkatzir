@@ -17,7 +17,7 @@
 
 - <b>Google Cloud</b>
 - <b>AWS</b>
-- <b>Microsoft Azure<b>
+- <b>Microsoft Azure</b>
 - <b>REST APIs</b>
 - <b>Full stack web development in Python Flask & NodeJS</b>
 
