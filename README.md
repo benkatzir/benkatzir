@@ -7,6 +7,8 @@
 - <b>NodeJS</b>
 - <b>T-SQL</b>
 - <b>PostgreSQL</b>
+- <b>Google SQL</b>
+- <b>Amazon DynamoDB</b>
 - <b>HTML/CSS</b>
 - <b>C++</b>
 - <b>Docker</b>
@@ -14,7 +16,8 @@
 <h2>🚀 Skills:</h2>
 
 - <b>Google Cloud</b>
-- <b>AWS ec2 (VMs)</b>
+- <b>AWS</b>
+- <b>Microsoft Azure<b>
 - <b>REST APIs</b>
 - <b>Full stack web development in Python Flask & NodeJS</b>
 
