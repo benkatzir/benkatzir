@@ -12,30 +12,13 @@
 - <b>Forex Auto Trading Bot (Oanda Broker Integration)</b>
   - [Auto Trader + Analytics Dashboard](https://github.com/benkatzir/Auto-Trader-Analytics-Dashboard)
 
-
-<h2>📙 Languages:</h2>
-
-- <b>Python</b>
-- <b>JavaScript</b>
-- <b>NodeJS</b>
-- <b>SQL</b>
-- <b>PostgreSQL</b>
-- <b>C++</b>
-- <b>Bun</b>
-- <b>React</b>
-
 <h2>🚀 Skills:</h2>
 
-- <b>Google Cloud</b>
-- <b>AWS</b>
-- <b>Microsoft Azure</b>
-- <b>Full stack web development</b>
-- <b>Kubernetes</b>
+- <b>Agent graph engineering</b>
+- <b>Inference serving</b>
 - <b>Datacenter maintenance</b>
-- <b>Compute optimization</b>
-- <b>Harness engineering</b>
-- <b>Graph engineering</b>
-- <b>Token optimization</b>
+- <b>Kubernetes</b>
+- <b>Cloud platforms</b>
 
 <h2> 🤳 Connect with me:</h2>
 
