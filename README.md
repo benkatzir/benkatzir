@@ -2,6 +2,10 @@
 
 <h2>⚡ Inference Engineering:</h2>
 
+- [GLM-5.3 Flash on three DGX Sparks](https://github.com/benkatzir/glm-5.3-flash-three-sparks)
+  - Eight concurrent 500k-token sessions with vision across three nodes: a measured scheduler A/B against the upstream recipe, video enablement, a reconstructed build, and sanitized evidence with explicit limits.
+- [DeepSeek V4.1 Flash on three DGX Sparks](https://github.com/benkatzir/deepseek-v41-flash-three-sparks)
+  - EXL3 routed experts with cooperative expert execution and native vision over a direct QSFP triangle: concurrency results, a paired 192-case quality pilot, pinned source reconstruction, and stated accuracy limits.
 - [Qwen3.6 on DGX Spark / GB10](https://github.com/benkatzir/qwen-zgx-lab)
   - Reproducible vLLM serving recipe, full-context concurrency benchmarks, and raw measurement evidence.
 
